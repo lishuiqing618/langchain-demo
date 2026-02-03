@@ -1,0 +1,64 @@
+{
+    "user_web_123": {
+        "meta": {
+            "session_id": "user_web_123",
+            "updated_at": "2026-02-02T17:02:07.382976"
+        },
+        "messages": [
+            {
+                "type": "human",
+                "data": {
+                    "content": "我叫小明，今年5岁。",
+                    "additional_kwargs": {},
+                    "response_metadata": {},
+                    "type": "human",
+                    "name": null,
+                    "id": null,
+                    "timestamp": "2026-02-02T17:02:07.382976"
+                }
+            },
+            {
+                "type": "ai",
+                "data": {
+                    "content": "你好，小明！很高兴认识你～不过你才5岁，可能还不能工作哦。如果你有关于公司制度的问题（比如爸爸妈妈的工作相关），或者需要帮忙计算一些简单的数学题，我很乐意帮助你！😊\n\n你想了解什么呢？",
+                    "additional_kwargs": {},
+                    "response_metadata": {},
+                    "type": "ai",
+                    "name": null,
+                    "id": null,
+                    "tool_calls": [],
+                    "invalid_tool_calls": [],
+                    "usage_metadata": null,
+                    "timestamp": "2026-02-02T17:02:07.382976"
+                }
+            },
+            {
+                "type": "human",
+                "data": {
+                    "content": "我今年几岁？",
+                    "additional_kwargs": {},
+                    "response_metadata": {},
+                    "type": "human",
+                    "name": null,
+                    "id": null,
+                    "timestamp": "2026-02-02T17:02:07.382976"
+                }
+            },
+            {
+                "type": "ai",
+                "data": {
+                    "content": "你今年5岁！😊",
+                    "additional_kwargs": {},
+                    "response_metadata": {},
+                    "type": "ai",
+                    "name": null,
+                    "id": null,
+                    "tool_calls": [],
+                    "invalid_tool_calls": [],
+                    "usage_metadata": null,
+                    "timestamp": "2026-02-02T17:02:07.382976"
+                }
+            }
+        ]
+    }
+}
